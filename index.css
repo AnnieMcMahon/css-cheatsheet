@@ -4,8 +4,8 @@
 
 h1 {
     text-align: center;
-    color: blueviolet;
-    font-weight: 800;
+    color: darkblue;
+    font-weight: bold;
     line-height: 1.5;
     font-size: 48px;
 }
@@ -16,6 +16,11 @@ h2 {
     font-weight: bold;
     line-height: 1.5;
     font-size: 36px;
+}
+
+header {
+  background-color:hsl(59, 45%, 75%);
+  padding: 1rem;
 }
 
 table, th, td {
