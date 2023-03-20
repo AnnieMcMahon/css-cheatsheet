@@ -1,4 +1,6 @@
 # CSS Cheatsheet
-Codecademy project: create a cheatsheet using HTML and CSS
+## Codecademy project: create a cheatsheet using HTML and CSS
 
-I chose to display the many different ways of using color in css.
+This is my first Codecademy portfolio project to practice HTML and CSS. 
+
+For this project, I chose to display the many different ways of using color in css.
